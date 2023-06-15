@@ -1,0 +1,39 @@
+Billionaires build
+Founders who understand some group of users and can make what they want
+
+1. Understand the group of users
+2. Can make what they want
+
+Your product will either have to be
+1. A new need
+2. A new way to satisfy an existing need
+As well as uncertainty as to whether you can satisfy that need
+
+What partners try to figure out:
+1. Whether what you're making will ever be something a lot of people want (not necessarily now, but in the end there has to be something with a huge market) - is there a path to a huge market: the path is usually by growing a small market
+2. Founders who are "living in the future" - leading edge of some kind of change, and who are building something they themselves want
+3. There are people who want to use what you're building right now, bugs and all - as long as you have some users, there are straightforward ways to get more: build more features, seek out more people like them, get referrals
+* YC partners will almost certainly dig into: [1] who are your first users going to be, and [2] how do you know they want this? Most convincing answer is "because we and our friend want it"
+
+YC partners will be satisfied if they feel that you have a deep understanding of your users' needs. The best thing you can do in the interview is teach partners about your users: so best way to prepare is to go talk to your users and find out exactly what they're thinking
+YC partners want to rely on the founders to tell them about the market: if YC partners can convince themselves that the founders both (a) know what they're talking about and (b) aren't lying, they don't need outside domain experts as they can use the founders themselves
+
+Competitors are rarely what kill startups. Poor execution does. (Probably the reason for such emphasis on founder profile). YC partners will hold it against you if you seem either unaware of competitors, or to be minimizing the threat they pose. 
+--
+If partners are sufficiently convinced that there's a path to a big market (you demonstrate that there are a group of users with either a new need or new way to satisfy an existing need, and that you know enough about the domain and what those users want, and that there is a path for this product), the next question is whether you'll be able to find it. Depends on three things:
+1. The general qualities of the founders
+2. Their specific expertise in this domain
+3. The relationship between them
+* How determined are the founders? Are they good at building things? Are they resilient enough to keep going when things go wrong? How strong is their friendship?
+
+The most powerful motivator is the be genuinely interested in what you're building: most founders can stop once they've reached some level of success but they don't because there's nothing else they'd rather do.
+
+So, YC looks for authenticity in founders: motives are genuine interest in the problem and unwillingness to work for someone else (not desire to make money and the desire to seem cool)
+*Users are what partners want to know in interviews. What do users want? What new things could you build for them?
+---
+Team should:
+1. Understand the group of users and the domain
+2. Have a product that either addresses [1] a new need or [2] a new way to satisfy an existing need
+3. Have users who want to use their product
+4. Have a product that leads into a big market (founders are living in the future)
+5. Are able to build a product, deliver it, and iterate on it
